@@ -1,2 +1,2 @@
-# Th-c_T-p_SVMC
+# Thuc_tap_SVMC
 Các bài giải thuật toán ở SVMC
